@@ -160,7 +160,7 @@ describe('board', function() {
       tempBoard.forEach(function(square) {
         expect(square).toEqual(null);
       });
-      expect(gameView.game.get("turns")).toEqual(0);
+      expect(gameView.game.get("turn")).toEqual(0);
     });
   });
   describe( "#tie", function() {
@@ -198,7 +198,7 @@ describe('board', function() {
       tempBoard.forEach(function(square) {
         expect(square).toEqual(null);
       });
-      expect(gameView.game.get("turns")).toEqual(0);
+      expect(gameView.game.get("turn")).toEqual(0);
     });
   });
 
