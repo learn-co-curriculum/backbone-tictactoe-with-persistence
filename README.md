@@ -8,4 +8,4 @@ This is an extension to our last backbone lab.  Here we're going to persist the 
 
 Add a new attribute to the game model and save the games state there once someone has won or tied.  Add a button to the DOM just like in the jquery example that allows someone to click and have an alert pop up with the text of the last game. The tests won't give you that much guidance as to how to do this, other than verifying that when we click that button we get the right output.  How you implement that functionality is up to you.
 
-<a href='https://learn.co/lessons/backbone-tictactoe-with-persistence' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/backbone-tictactoe-with-persistence' title='Backbone Tic-Tac-Toe with Persistence'>Backbone Tic-Tac-Toe with Persistence</a> on Learn.co and start learning to code for free.</p>
